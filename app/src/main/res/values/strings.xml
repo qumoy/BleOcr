@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BleOcr</string>
+    <string name="text_positive_button">确定</string>
+    <string name="text_negative_button">取消</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="text_rssi_num">-40</string>
+</resources>
